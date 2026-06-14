@@ -227,7 +227,3 @@ The article cites several standard references in quantum computation and quantum
 Universidad de San Carlos  
 School of Physical and Mathematical Sciences  
 Master's Program in Physics
-
-## License
-
-No license has been specified yet. If this repository is intended to be public, consider adding a license such as MIT, Creative Commons BY 4.0, or another license appropriate for educational material.
