@@ -122,18 +122,7 @@ $$
 then the full three-qubit state can be decomposed in the Bell basis of Alice's two qubits as
 
 $$
-|\phi\rangle_S |\psi^{00}\rangle_{AB}
-=
-\frac{1}{2}
-\left[
-|\psi^{00}\rangle_{SA}|\phi\rangle_B
-+
-|\psi^{01}\rangle_{SA}\sigma_x|\phi\rangle_B
-+
-|\psi^{10}\rangle_{SA}\sigma_z|\phi\rangle_B
-+
-|\psi^{11}\rangle_{SA}\sigma_x\sigma_z|\phi\rangle_B
-\right].
+|\phi\rangle_S |\psi^{00}\rangle_{AB}=\frac{1}{2}\left[|\psi^{00}\rangle_{SA}|\phi\rangle_B+|\psi^{01}\rangle_{SA}\sigma_x|\phi\rangle_B+|\psi^{10}\rangle_{SA}\sigma_z|\phi\rangle_B+|\psi^{11}\rangle_{SA}\sigma_x\sigma_z|\phi\rangle_B\right].
 $$
 
 After Alice performs the Bell-state measurement, Bob's qubit collapses into one of four related states. Alice sends Bob two classical bits indicating her measurement result, and Bob applies the corresponding correction:
